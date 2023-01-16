@@ -32,21 +32,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Statistics</h1>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=objectorienteddev07&theme=dracula&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&border_radius=30" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=objectorienteddev07&theme=dracula&layout=compact&langs_count=10&hide_border=true&border_radius=30" />
-</a>
-<!-- 
-<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coding Time Stats</h4> -->
-<!-- wakatime week stats -->
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=objectorienteddev&border_radius=30&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <h1>:hammer_and_wrench: Skils & Tools</h1>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
