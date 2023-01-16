@@ -1,6 +1,6 @@
 <h4 align=center>Hi there 👋</h4>
 <h1 align=center>I'm Kartikey Sinha</h1>
-<h4 align=center>Developer & Graphic Designer</h4>
+<h4 align=center>Backend Developer</h4>
 <!-- <p align="left"> <img src="" alt="Kartikey Sinha" /> </p> -->
 <img align="right" width="450" src="https://media3.giphy.com/media/ZDTbix65Me1YDNLDF3/200.webp?cid=ecf05e47bslz79b2r5bvrju9vz84btf82e0gkbtnpykq054e&rid=200.webp&ct=ts">
 
@@ -9,7 +9,7 @@
 
 - ✉ *kartikey.sinha.26@gmail.com*
 
-- 🚀 *Hoping to die on Mars*
+- 🚀 *Hoping to write print("Hello World") on Mars*
 
 <!-- - ☕ *<a href="https://www.buymeacoffee.com/ayanansari07">Buy me a coffee :)</a>* -->
 
