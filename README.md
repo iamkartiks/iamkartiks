@@ -50,6 +50,22 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'  width="40" height="40">
   <img src='https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg'  width="40" height="40">
+  <img src='https://github.com/devicons/devicon/blob/v2.15.1/icons/nginx/nginx-original.svg'  width="40" height="40">
+  <img src='https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg'  width="40" height="40">
+  <img src='https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg'  width="40" height="40">
+  <img src='https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg'  width="40" height="40">
+  <img src='https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original-wordmark.svg'  width="40" height="40">
+  <img src='https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original-wordmark.svg'  width="40" height="40">
+  <img src='https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original-wordmark.svg'  width="40" height="40">
+  <img src='https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original-wordmark.svg'  width="40" height="40">
+  <img src='https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg'  width="40" height="40">
+  <img src='https://github.com/devicons/devicon/blob/v2.15.1/icons/maya/maya-original-wordmark.svg'  width="40" height="40">
+  <img src='https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg'  width="40" height="40">
+  <img src='https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg'  width="40" height="40">
+  <img src='https://github.com/devicons/devicon/blob/v2.15.1/icons/pytest/pytest-original-wordmark.svg'  width="40" height="40">
+  <img src='https://github.com/devicons/devicon/blob/v2.15.1/icons/qt/qt-original.svg'  width="40" height="40">
+  <img src='https://github.com/devicons/devicon/blob/v2.15.1/icons/shotgrid/shotgrid-original-wordmark.svg'  width="40" height="40">
+  <img src='https://github.com/devicons/devicon/blob/v2.15.1/icons/solidity/solidity-original.svg'  width="40" height="40">
   
 </div>
 
