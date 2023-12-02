@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about : 3D,VFX Pipeline Development, ML/AI, 
 - 📫 How to reach me: kartikey.sinha.26@gmail.com
 - 😄 Pronouns: He/Him
--->
 
 <h1>:hammer_and_wrench: Skils & Tools</h1>
 <div>
